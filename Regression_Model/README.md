@@ -1,5 +1,6 @@
 # Regression Model - Notes
 This project focuses on building and evaluating regression models for predicting laptop prices based on various features. It involves data preprocessing, splitting the dataset, training different models, and evaluating their performance using RMSE (Root Mean Squared Error). Below is a summary of the key concepts and steps encountered throughout the project.
+#mlzoomcamp
 
 # Key Concepts:
 1. Data Preprocessing
